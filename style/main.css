@@ -21,7 +21,7 @@ h1.title {
   font-weight: bold;
   margin: 0;
   display: block;
-  float: left; }
+  float: center; }
 
 @-webkit-keyframes move-up {
   0% {
@@ -48,8 +48,8 @@ h1.title {
     top: -50px;
     opacity: 0; } }
 .scores-container {
-  float: right;
-  text-align: right; }
+  float: center;
+  text-align: center; }
 
 .score-container, .best-container {
   position: relative;
