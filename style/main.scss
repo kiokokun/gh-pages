@@ -19,16 +19,20 @@ $tile-gold-glow-color: lighten($tile-gold-color, 15%);
 $game-container-margin-top: 40px;
 $game-container-background: #bbada0;
 
-$transition-speed: 100ms;
+$transition-speed: 50ms;
 
 html, body {
   margin: 0;
   padding: 0;
 
-  background: #faf8ef;
+  background:  <img src="http://static.biola.edu/chimes/media/photos/2013/Oct/01/aoc.gov_1.jpg">;
+   background-size: cover;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
   color: $text-color;
-  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
-  font-size: 18px;
+  font-family: "Clear Sans", "Helvetica Neue";
+   font-size: 18px;
 }
 
 body {
