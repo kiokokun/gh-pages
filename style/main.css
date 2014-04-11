@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: <img src="http://static.biola.edu/chimes/media/photos/2013/Oct/01/aoc.gov_1.jpg">;
+  background: <img src="http://static.biola.edu/chimes/media/photos/2013/Oct/01/aocr.gov_1.jpg">;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
@@ -485,10 +485,10 @@ hr {
   line-height: 42px;
   display: block;
   text-align: center;
-  float: right; }
+  float: center; }
 
 .game-explanation {
-  margin-top: 50px; }
+  margin-top: 60px; }
 
 @media screen and (max-width: 520px) {
   html, body {
